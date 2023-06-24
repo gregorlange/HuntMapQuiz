@@ -788,8 +788,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 196.0003, y: 0}
-  m_SizeDelta: {x: 242.0006, y: 0}
+  m_AnchoredPosition: {x: 230.33691, y: 0}
+  m_SizeDelta: {x: 310.6738, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1474074280
 MonoBehaviour:
@@ -811,7 +811,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Stillwater Bayou
+  m_text: Stillwater Bayou 1
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 549b724a33eac6e4596d43b5f7f00043, type: 2}
   m_sharedMaterial: {fileID: 3213964859823633512, guid: 549b724a33eac6e4596d43b5f7f00043, type: 2}
