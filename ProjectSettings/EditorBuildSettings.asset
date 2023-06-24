@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a193431236e1de04686fc7ab9ca5070d
+  - enabled: 1
+    path: Assets/Scenes/Bayou.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Lawson.unity
+    guid: b28c844bb66064a479e9d9257616ead1
+  - enabled: 1
+    path: Assets/Scenes/DeSalle.unity
+    guid: 414ffb9be7d67094b9478e612c9d6b1f
+  m_configObjects: {}
